@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/tonyd/IdeaProjects/TestNGReview/src/test/java/reviewClass01/EnableDisable.java">
+        <classes>
+            <class name="reviewClass01.EnableDisable">
+                <methods>
+                    <include name="testOne"/>
+                    <include name="testTwo"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

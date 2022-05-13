@@ -1,0 +1,14 @@
+    Review Class 01 05/13/2022
+
+TestNG:
+    1. Basic Annotations
+        1. @Test
+        2. @BeforeMethod
+        3. @AfterMethod
+        4. @BeforeClass
+        5. @AfterClass
+        6. @BeforeTest
+        7. @AfterTest
+        8.
+        9.
+        10.
